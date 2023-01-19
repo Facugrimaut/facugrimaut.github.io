@@ -1,0 +1,62 @@
+body{
+    text-align: center;
+}
+nav{
+    margin: 40px;
+}
+tr,th,td{
+  border-bottom:1px solid black;
+  border-left: 1px solid black;
+  border-top: 1px solid black;
+  border-right: 1px solid black;
+  
+}
+
+#categoria{
+    color: #6B8E23 ; 
+    font-family: 'Montserrat', sans-serif;
+    text-align: center;
+    font-size: 25px;
+}
+    
+
+#descripcionPassword ,#descripcionPhone, #descripcionAdress, #descripcionBirthday, #descripcionEAdress, #Password, #Phone,#Adress, #Birthday, #EAdress {
+    color: #808000;
+    font-family: 'Montserrat', sans-serif;
+    text-align: center;
+    font-size: 15px;
+}
+
+body{
+    background-color: #FFFFE0;
+
+}
+h1{
+        
+    background-color:   #FFE4B5;
+    padding: 0px;
+    text-align: center;
+    font-size: 35px;
+    color: #778899;
+}
+
+h1{
+    font-family: 'Anton', sans-serif;
+    text-align: center;
+    color: grey;
+    
+
+}
+
+#nombre{
+    
+    font-family: 'Anton', sans-serif;
+    text-align: center;
+    color: grey;
+    font-size: 50px;
+
+}
+
+
+
+
